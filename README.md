@@ -156,5 +156,5 @@ No known Bugs.
 ## TEAM
 Mwiine Daniel
 
-Loyo Enock
+Owora John Enock
 
