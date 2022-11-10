@@ -154,8 +154,7 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 No known Bugs.
 
 ## TEAM
-Mwiine Daniel 
-````
+Mwiine Daniel
 Loyo Enock
 
 ## AUTHOR DESCRIPTION (Mwiine Daniel)
