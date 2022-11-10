@@ -79,7 +79,7 @@ list_path *add_node_end(list_path **head, char *str)
 
 /**
  * linkpath - creates linked list for path directories
- * @path: string of path value
+ * @path: string path value
  * Return: pointer to created linked list.
  */
 list_path *linkpath(char *path)
