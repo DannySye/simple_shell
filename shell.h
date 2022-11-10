@@ -44,8 +44,8 @@ char *_which(char *filename, list_path *head);
 
 /**
  * struct mybuild - pointer to function with corresponding buildin command
- * @name: buildin command
- * @func: execute buildin command
+ * @name: buildin command.
+ * @func: execute buildin command.
  */
 typedef struct mybuild
 {
