@@ -154,10 +154,6 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 No known Bugs.
 
 ## TEAM
-<<<<<<< HEAD
-Mwiine Daniel 
-=======
 Mwiine Daniel
->>>>>>> mwiine
 Loyo Enock
 
