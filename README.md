@@ -155,7 +155,5 @@ No known Bugs.
 
 ## TEAM
 Mwiine Daniel 
-
 Loyo Enock
 
-## AUTHOR DESCRIPTION (Mwiine Daniel)
